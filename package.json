@@ -1,6 +1,6 @@
 {
     "name": "com.nagasuki.sceneattribute",
-    "vertion": "1.0.0",
+    "version": "1.0.0",
     "displayName": "Scene Attribute",
     "description": "Convert attribute string to scene",
     "unity": "2022.3",
